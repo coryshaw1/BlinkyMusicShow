@@ -1,7 +1,7 @@
 BlinkyLightShow
 ===============
 
-[![Demo video](https://i.imgur.com/J9L8C6j.png)](https://scontent-atl3-1.cdninstagram.com/t50.2886-16/11719633_859007807516632_674404249_n.mp4)
+[![Demo video](https://i.imgur.com/J9L8C6j.png)](https://instagram.fhyw1-1.fna.fbcdn.net/vp/e9f9a1d90bce4f1bd22605ab4f3481d2/5B5447F8/t50.2886-16/11719633_859007807516632_674404249_n.mp4)
 
 A processing program for BlinkyTapes to visualize any sound input based on sound energy, 
 rather than frequency energy. 
